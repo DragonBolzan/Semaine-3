@@ -1,0 +1,71 @@
+< !DOCTYPE html>
+<html lang= "fr">
+	<head>
+		<link type= "text/css" rel= "stylesheet" href= "stylesheet.css"/>
+		<meta charset ="utf-8">
+		<title>Draft de mon CV</title>
+	</head>
+
+	<body>
+		<header>
+			<h1 id="titre">Camille Bolzan, Data analyste</h1>
+        </header>
+        <hr/>
+		<div class="left">
+		    <img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAZPAAAAJGJlZjE1NjVjLWEzYWEtNGE4Ny05Y2ViLWFkYzE5N2FlNTViNA.jpg"/>
+		    <h3>Résumé</h3>
+        				<p>Passionnée d'informations à caractère économique, des méthodes de recueil et d'analyse de données et des techniques de veille sur internet, j'aimerais devenir analyste de données. Pour finaliser mon projet, je me forme en lanages informatiques et en statistiques.</p>
+		    <h3>Age</h3>
+		        <p>26 ans</p>
+		    <h3>Ville</h3>
+		        <p>Lille</p>
+		</div>
+
+		<article>
+			
+            <h2>Mes compétences</h2>
+	                <h3>Langages</h3>
+		                    <ul>
+			                    <li>HTML, CSS, C+</li>
+		                    </ul>
+	                <h3>Outils de veille</h3>
+                            <ul>
+			                    <li>Talkwalker, KBCrawl, Netvibes</li>
+		                    </ul>
+	                <h3>Extraction & analyse de données</h3>
+		                    <ul>
+			                    <li>Zennoposter, OutWit Hub, Tropes</li>
+		                    </ul>
+	                <h3>Visualisation</h3>
+                            <ul>
+			                    <li>Gephi, Piktochart, CartoDB, PhotoShop</li>
+		                    </ul>
+	                <h3>Structuration de bases de données</h3>
+		                    <ul>
+			                    <li>XML, MLD, DTD, XSLT</li>
+		                    </ul>
+
+            <h2>Mes expériences professionnelles</h2>
+   				    <h3>Chargée de projet recherche - Veille stratégique (CDD)</h3>
+       					 <p>Gestion d'un Observatoire sur les usages alimentaires intégré dans un processus de veille
+      						  <ul>
+           							 <li>Classification et analyse des sources clés d'informations en contexte international</li>
+          							 <li>Scrapping et architecture automatisés de grands volumes de données</li>
+            						 <li>Analyse quantitative et qualitative de données économiques et textuelles</li>
+            						 <li>Développement de méthodologies de comparaison interculturelle de données</li>
+            						 <li>Gestion et suivi de projet pour mettre à disposition les études à date à travers un outil informatique axé utilisateur</li>
+            						 <li>Développement d'une stratégie de communication à caractère scientifique (partage de contenus pédagogiques sur les méthodologies employées, livraison de datavisualisation, engagement autour des contenus)</li>
+        					  </ul>
+       					 </p>
+        
+        		    <h3>Journaliste économique (Contrat d'apprentissage)</h3>
+        						<ul>
+           							 <li>Rédaction de synthèses et dossiers sur l'information économique et financière de l'industrie des médias, de la publicité et de la communication numériques à l'attention d'un lectorat professionnel</li>
+        						</ul>
+</article>
+
+		<footer>
+			<p id="fin">Si vous souhaitez me contacter <a href="https://www.linkedin.com/in/camille-bolzan-0981b859?trk=nav_responsive_tab_profile"><em>cliquez ici</em></a>
+        </footer>
+	</body>
+</html>
